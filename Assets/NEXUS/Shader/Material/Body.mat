@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Body
+  m_Shader: {fileID: 4800000, guid: 13b44d0ba6453c84fa4fbf3ee55b2bf5, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AoTex:
+        m_Texture: {fileID: 2800000, guid: 31c8570a74ce4a4428a156e0921e7020, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 6a126e657fb237f4eaa26e18de68c3b7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicTex:
+        m_Texture: {fileID: 2800000, guid: 95055329ac343b14683165d2c4afca88, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 2800000, guid: 19a5346e43c7b8541a0fef351a3412a8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RoughnessTex:
+        m_Texture: {fileID: 2800000, guid: a68f8e26012c3bc429e8f751cd88a8bd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DebugMode: 0
+    - _DiffuseInt: 0.88
+    - _EmissionInt: 1.05
+    - _EnvDifInt: 8.92
+    - _EnvSpecInt: 3.03
+    - _F0: 0.12
+    - _Fresnel: 0.5
+    - _FresnelInt: 0.1
+    - _FresnelPower: 7.5
+    - _MaxRoughness: 0.96
+    - _Metallic: 0.8
+    - _MinRoughness: 0.27
+    - _PlanarShadowOpacity: 0
+    - _Roughness: 0.5
+    - _ShadowFilterRadius: 1
+    - _ShadowStrength: 1
+    - _SpecInt: 5.25
+    m_Colors:
+    - _DiffuseCol: {r: 0.7219437, g: 0.7789281, b: 0.82641506, a: 1}
+    - _EmissionCol: {r: 1.3413906, g: 1.4618553, b: 0.5268196, a: 1}
+    - _EnvSpecCol: {r: 0.16981131, g: 0.11879742, b: 0.03556426, a: 1}
+    - _FresnelCol: {r: 0.3283019, g: 0.32275918, b: 0.31157708, a: 1}
+    - _LightColor: {r: 0.7321582, g: 0.8037735, b: 0.65363467, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecCol: {r: 0.5698112, g: 0.5077577, b: 0.39456737, a: 1}
+  m_BuildTextureStacks: []

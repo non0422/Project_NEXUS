@@ -1,0 +1,16 @@
+* text=auto
+*.shader text eol=lf
+*.hlsl text eol=lf
+*.cs text eol=lf
+*.md text eol=lf
+*.meta text eol=lf
+*.unity text eol=lf
+*.mat text eol=lf
+*.asset text eol=lf
+*.png binary
+*.jpg binary
+*.gif binary
+*.tga binary
+*.exr binary
+*.fbx binary
+*.glb binary
